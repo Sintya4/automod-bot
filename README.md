@@ -51,7 +51,7 @@ Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/st
 ### If u got ajy error join discord server
 ### If you want working version join our discord server ds.gg/cwkham
 ## 💨 Run the projects
- on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Khanmanan/automod-bot)
+[![Run on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Khanmanan/automod-bot)
 
 ### Frok Latest version on replit [![Run on Repl.it](https://repl.it/bamod-bot-2#.env)
 
